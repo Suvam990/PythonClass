@@ -1,6 +1,6 @@
 # # data = {
 # #     'name': 'subham lama',
-# #     'age':21,
+
 # #     'city':'kathmandu',
 # #     'contact':{
 # #         'phone':987436378,sus

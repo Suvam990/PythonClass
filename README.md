@@ -2,6 +2,6 @@
 
 ##Introduction of python
 
-*This is for python class
+* This is for python class
 
 downlaod link:https://www.python.org/downloads/
